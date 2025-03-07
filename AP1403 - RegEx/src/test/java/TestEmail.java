@@ -24,7 +24,7 @@ public class TestEmail {
 
     @Test
     void testEmail2() {
-        assertTrue(ex.validateEmail("alice_bob123@research-lab.co.uk"));
+            assertTrue(ex.validateEmail("alice_bob123@research-lab.co.uk"));
     }
 
     @Test
